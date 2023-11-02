@@ -9,7 +9,7 @@
 - 👨‍💻 I’m currently studying Computer Systems Engineering at [Palestine Technical University - Kadoorie.](https://ptuk.edu.ps/ar/)
 - 🧠 I’m currently focused on developing my skills and acquiring new knowledge **to broaden my expertise**
 - 📫 How to reach me: [alaahewwari@gmail.com](mailto:alaahewwari@gmail.com)
-<h3 align="left">Languages and tools:🔮⛏️</h3>
+<h3 align="left">Languages and tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
@@ -45,7 +45,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alaa hewwari" height="30" width="40" />
   </a>
 </p>
-<h3 align="left">Statistics:📊</h3>
+<h3 align="left">Statistics:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlaaHewwari&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaaHewwari&theme=radical" />
