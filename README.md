@@ -7,7 +7,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlaaHewwari&color=800080&style=flat-square&label=Alaa%27s+profile+views" alt="profile views" /> </p>
 
-- 👨‍💻 I’m studying Computer Systems Engineering at [Palestine Technical University - Kadoorie.](https://ptuk.edu.ps/ar/)
+- 👨‍💻 I’m currently studying Computer Systems Engineering at [Palestine Technical University - Kadoorie.](https://ptuk.edu.ps/ar/)
 
 - 🧠 I’m currently focusing on developing my skills and acquiring new knowledge **to broaden my expertise**
 
