@@ -1,14 +1,18 @@
 # Hi 👋, I'm Alaa Hewwari
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Eng.-Alaa Hewwari-purple" alt="Badge">
 </p>
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Image">
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlaaHewwari&color=800080&style=flat-square&label=Alaa%27s+profile+views" alt="profile views" /> </p>
 
 - 👨‍💻 I’m currently studying Computer Systems Engineering at [Palestine Technical University - Kadoorie.](https://ptuk.edu.ps/ar/)
+
 - 🧠 I’m currently focused on developing my skills and acquiring new knowledge **to broaden my expertise**
-- 📫 How to reach me: [alaahewwari@gmail.com](mailto:alaahewwari@gmail.com)
+
+- 📫 How to reach me **alaahewwari@gmail.com**
+  
 <h3 align="left">Languages and tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
@@ -52,8 +56,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlaaHewwari&layout=compact&langs_count=8&card_width=320&theme=radical"/>
 </p>
 <hr /> 
-
-<h3 align="left">Visitors:👀</h3>
-<p align="center"> <img width="250px" src="https://komarev.com/ghpvc/?username=AlaaHewwari&color=00FFFF&style=flat-square&label=Alaa%27s+profile+views" alt="AlaaHewwari-profile-views" /> </p>
-
+<p align="center">
+  <img src="https://freefrontend.com/assets/img/html-funny-404-pages/HTML-404-Error-Page.gif"/>
+</p>
 
