@@ -48,9 +48,9 @@
   
 <h3 align="left">Statistics:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlaaHewwari&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaaHewwari&theme=radical" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlaaHewwari&layout=compact&langs_count=8&card_width=320&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AlaaHewwari&show_icons=true&theme=radical" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaaHewwari&theme=radical" />
 </p>
 <hr /> 
 <p align="center">
