@@ -40,15 +40,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 <hr /> 
-### Connect with me:
+
+<h3 align="left" >Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/alaa hewwari" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaa hewwari" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/alaa hewwari" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alaa hewwari" height="30" width="40" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/alaa hewwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaa hewwari" height="30" width="40" /></a>
+<a href="https://fb.com/alaa hewwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alaa hewwari" height="30" width="40" /></a>
+  
 <h3 align="left">Statistics:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlaaHewwari&show_icons=true&theme=radical" />
