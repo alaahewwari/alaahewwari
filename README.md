@@ -53,7 +53,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaaHewwari&theme=radical" />
 </p>
 <hr /> 
-<p align="center">
-  <img src="https://freefrontend.com/assets/img/html-funny-404-pages/HTML-404-Error-Page.gif"/>
-</p>
+
 
