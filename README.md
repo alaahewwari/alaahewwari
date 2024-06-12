@@ -9,7 +9,9 @@
 
 - 👨‍💻 I’m currently studying Computer Systems Engineering at [Palestine Technical University - Kadoorie.](https://ptuk.edu.ps/ar/)
 
-- 🧠 I’m currently focusing on developing my skills and acquiring new knowledge **to broaden my expertise**
+- 📍 I’m a Backend Intern at Asal Technologies.
+
+- 🧠 I’m focusing on developing my skills and acquiring new knowledge to broaden my expertise.
 
 - 📫 How to reach me **alaahewwari@gmail.com**
   
