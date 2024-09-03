@@ -7,9 +7,9 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlaaHewwari&color=800080&style=flat-square&label=Alaa%27s+profile+views" alt="profile views" /> </p>
 
-- 👨‍💻 I’m currently studying Computer Systems Engineering at [Palestine Technical University - Kadoorie.](https://ptuk.edu.ps/ar/)
+- 👨‍💻 I’m a Senior Computer Systems Engineering student at [Palestine Technical University - Kadoorie.](https://ptuk.edu.ps/ar/)
 
-- 📍 I’m a Backend Intern at Asal Technologies.
+- 📍 I’m a Former Backend Intern at Asal Technologies.
 
 - 🧠 I’m focusing on developing my skills and acquiring new knowledge to broaden my expertise.
 
