@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m a Senior Computer Systems Engineering student at [Palestine Technical University - Kadoorie.](https://ptuk.edu.ps/ar/)
 
-- 📍 Currently I'm a Backend Intern at Foothill Technology Solutions.
+- 📍 I’m a Former Backend Intern at Foothill Technology Solutions.
 
 - 📍 I’m a Former Backend Intern at Asal Technologies.
 
